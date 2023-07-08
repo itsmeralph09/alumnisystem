@@ -1,0 +1,31 @@
+body{
+    background: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.rap2{
+    color: #7b0d0d;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.form-group .icon{
+    background: #7b0d0d;
+  }
+.rap{
+background-color: #7b0d0d;
+color: white;
+  }
+  .rap:hover{
+    color: #7b0d0d;
+    background-color: white;
+    border: 1px solid #7b0d0d;
+  }
+.rap1:focus{
+    border: 1px solid #7b0d0d;
+  }
+  a{
+    color: #7b0d0d;
+  }
+  .rap-text:hover{
+    text-decoration: none;
+  }
